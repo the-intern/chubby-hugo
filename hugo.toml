@@ -1,4 +1,4 @@
 baseURL = 'https://the-intern.github.io/chubby-hugo'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-
+title = 'Chubby Hugo'
+theme = 'lugo'
