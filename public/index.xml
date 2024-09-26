@@ -1,32 +1,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>ABC Chubby Chubby Chubby Hugo</title>
-	<link>http://localhost:1313/chubby-hugo/</link>
+	<link>https://the-intern.github.io/chubby-hugo/</link>
 	<description>Recent content in Home Page on ABC Chubby Chubby Chubby Hugo</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Thu, 26 Sep 2024 10:55:47 -0500</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/chubby-hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://the-intern.github.io/chubby-hugo/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Notes</title>
-		<link>http://localhost:1313/chubby-hugo/first-takes/notes/</link>
+		<link>https://the-intern.github.io/chubby-hugo/first-takes/notes/</link>
 		<pubDate>Thu, 26 Sep 2024 10:26:30 -0500</pubDate>
 		
-		<guid>http://localhost:1313/chubby-hugo/first-takes/notes/</guid>
+		<guid>https://the-intern.github.io/chubby-hugo/first-takes/notes/</guid>
 		<description>&lt;p&gt;here&amp;rsquo;s an image from a different directory&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/chubby-hugo/images/xran.png&#34; alt=&#34;iran again&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://the-intern.github.io/chubby-hugo/images/xran.png&#34; alt=&#34;iran again&#34;&gt;&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>2024 09 26</title>
-		<link>http://localhost:1313/chubby-hugo/first-takes/2024-09-26/</link>
+		<link>https://the-intern.github.io/chubby-hugo/first-takes/2024-09-26/</link>
 		<pubDate>Thu, 26 Sep 2024 10:22:03 -0500</pubDate>
 		
-		<guid>http://localhost:1313/chubby-hugo/first-takes/2024-09-26/</guid>
+		<guid>https://the-intern.github.io/chubby-hugo/first-takes/2024-09-26/</guid>
 		<description>&lt;h1 id=&#34;stories&#34;&gt;Stories&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;Fish bites man&lt;/li&gt;
@@ -38,22 +38,22 @@
 	
 	<item>
 		<title>Posts</title>
-		<link>http://localhost:1313/chubby-hugo/posts/</link>
+		<link>https://the-intern.github.io/chubby-hugo/posts/</link>
 		<pubDate>Thu, 26 Sep 2024 08:37:04 -0500</pubDate>
 		
-		<guid>http://localhost:1313/chubby-hugo/posts/</guid>
+		<guid>https://the-intern.github.io/chubby-hugo/posts/</guid>
 		<description>&lt;p&gt;this is a list of posts &amp;hellip;&lt;/p&gt;
 &lt;p&gt;here&amp;rsquo;s an image&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/chubby-hugo/iran.png&#34; alt=&#34;iran&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://the-intern.github.io/chubby-hugo/iran.png&#34; alt=&#34;iran&#34;&gt;&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>About</title>
-		<link>http://localhost:1313/chubby-hugo/about/</link>
+		<link>https://the-intern.github.io/chubby-hugo/about/</link>
 		<pubDate>Wed, 25 Sep 2024 16:24:33 -0500</pubDate>
 		
-		<guid>http://localhost:1313/chubby-hugo/about/</guid>
+		<guid>https://the-intern.github.io/chubby-hugo/about/</guid>
 		<description>&lt;p&gt;this is about page&lt;/p&gt;
 </description>
 	</item>
