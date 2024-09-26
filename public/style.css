@@ -1,7 +1,12 @@
 body {
 	font-family: sans-serif ;
-	background: #110000 ;
-	color: #ccc ;
+	/* background: #110000 ; */
+	background: #aaa;
+	color: #fff ;
+}
+
+a {
+	color: #555;
 }
 
 main {
