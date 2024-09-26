@@ -1,4 +1,4 @@
 baseURL = 'https://the-intern.github.io/chubby-hugo'
 languageCode = 'en-us'
 title = 'SimpLog Aggregator Commentator'
-theme = 'simplog'
+theme = 'hugo-theme-yue'
