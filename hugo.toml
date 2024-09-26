@@ -1,4 +1,4 @@
-baseURL = 'https://the-intern.github.io/chubby-hugo'
+baseURL = 'https://the-intern.github.io'
 languageCode = 'en-us'
 title = 'Rough Draft on First Sight'
 theme = 'lugo'
