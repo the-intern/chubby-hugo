@@ -1,4 +1,5 @@
 baseURL = 'https://the-intern.github.io/chubby-hugo'
+{{ relURL "style.css" }}
 languageCode = 'en-us'
 title = 'ABC Chubby Chubby Chubby Hugo'
 theme = 'lugo'
